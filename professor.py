@@ -77,14 +77,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
-\x1b[31;1m@            The Professor               @
-\x1b[31;1m@              Version: 1                @                
-\x1b[31;1m@              FB HACKER                 @
+\x1b[31;1m#            The Professor               #
+\x1b[31;1m#              Version: 1                #                
+\x1b[31;1m#              FB HACKER                 #
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
 """
 
 RH = """
-   _______ _            _____            __                         
+  _______ _            _____            __                         
  |__   __| |          |  __ \          / _|                        
     | |  | |__   ___  | |__) | __ ___ | |_ ___  ___ ___  ___  _ __ 
     | |  | '_ \ / _ \ |  ___/ '__/ _ \|  _/ _ \/ __/ __|/ _ \| '__|
@@ -97,9 +97,9 @@ CorrectUsername = "The"
 CorrectPassword = "Professor"
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\x1b[34;1m👨‍ \x1b[1;95mID \x1b[31;1m@Username>>\x1b[1;91m")
+    username = raw_input("\x1b[34;1m👨‍ \x1b[1;95mUsername \x1b[31;1m@Bnusa>>\x1b[1;91m")
     if (username == CorrectUsername):
-    	password = raw_input("\x1b[34;1m🤖 \x1b[1;95mPassword \x1b[37;1m@Password>> \x1b[1;91m")
+    	password = raw_input("\x1b[34;1m🤖 \x1b[1;95mPassword \x1b[37;1m@Bnusa>> \x1b[1;91m")
                                                                                
         if (password == CorrectPassword):
             print "Daxl Bwet ba ID " + username #Noop=hacker
@@ -107,10 +107,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96m Passwordakat Halaya"
-            print " welcome  to  my  server  1337 erbil "
+            print " Bo Dast Kautny Passwordaka Bba Andam La DESTROYER STAFF "
     else:
-        print "\033[1;96mIDya Kat Halaya "
-        print "welcome  to  my  server  1337 erbil"
+        print "\033[1;96mUsernamet Hallaya "
+        print " Bo Dast Kautny Passwordaka Bba Andam La DESTROYER STAFF"
 
 def login():
 	os.system('clear')
@@ -122,7 +122,7 @@ def login():
 		print logo
 		print 42*"\033[1;96m="
 		print('Tkaya FB Nwe Daxil Ka ')
-		print('\x1b[31;1m<-------------$\x1b[36;1mLOGIN\x1b[31;1m$------------->')
+		print('\x1b[31;1m------$\x1b[36;1mLOGIN\x1b[31;1m$-------')
 		id = raw_input('\x1b[35;1m[🆔️]¤EMAIL/ID¤♤> \x1b[37;1m')
 		pwd = raw_input('\x1b[35;1m[⛔]¤PASSWORD¤♡> \x1b[31;1m ')
 		tik()
